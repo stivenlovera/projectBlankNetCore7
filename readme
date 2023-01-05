@@ -1,0 +1,10 @@
+## Sistema desarrollado con dotnet CLI x64 
+## Api Rest en blanco
+- logger incluido
+- conextor mysql y sqlserver
+
+## Version Net core 7
+dotnet core 7.0.101
+
+## Importante
+el paquete pomelo mysql esta en un version beta 7.0 para la version net core 7 (actualizar a la version estandar cuando este disponible )
